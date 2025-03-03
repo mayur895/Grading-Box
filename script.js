@@ -18,6 +18,7 @@ rect.addEventListener("mousemove",function(details){
         })
     }
 })
+console.log("hello");
 rect.addEventListener('mouseleave',function(){
     // rect.computedStyleMap.backgroundColor='white';
     gsap.to(rect,{
