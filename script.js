@@ -1,4 +1,5 @@
 // console.log("hey this is live ");
+console.log("Hello Bro Whatsup")
 var rect=document.querySelector("#Centre");
 rect.addEventListener("mousemove",function(details){
     var rectLocation=rect.getBoundingClientRect()
